@@ -27,11 +27,11 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
       <td width="25%" align="center">
-        <span>Git</span><br><br><br>
+        <span><b>Git</b></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span>Java</span><br><br><br>
+        <span><b>Java</b></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
       </td>
     </tr>
@@ -40,11 +40,11 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
       </td>
       <td width="25%" align="center">
-        <span>Html5</span><br><br><br>
+        <span><b>Html5</b></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
       <td width="25%" align="center">
-        <span>Angular</span><br><br><br>
+        <span><b>Angular</b></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/angular-icon.svg">
       </td>
     </tr>
@@ -57,11 +57,17 @@
   <a href="https://github.com/Jose1102">
     <img align="center" alt="Prashant's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
   </a>
+  
 </div>
-
+<div>
+  <p></p>
+</div>
+<div>
+  
 <p align="center">
 
 <img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FJose1102" />
-<img src="https://komarev.com/ghpvc/?username==Jose1102" alt="=Jose1102" />
-
+<img src="https://komarev.com/ghpvc/?username=Jose1102" alt="Jose1102" />
 </p>
+  
+</div>  
