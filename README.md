@@ -44,7 +44,7 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
       <td width="25%" align="center">
-        <span><b>Angular</b></span><br><br><br>
+        <span><b>React</b></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
     </tr>
