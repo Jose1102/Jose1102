@@ -34,6 +34,11 @@
         <span><b>Java</b></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
       </td>
+      <td width="25%" align="center">
+        <span><b>Spring Boot</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/spring-icon.svg">
+      </td>
+      
     </tr>
       <td width="25%" align="center">
         <span><b>MySql</b></span><br><br><br>
@@ -47,6 +52,11 @@
         <span><b>React</b></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
+      <td width="25%" align="center">
+        <span><b>Angular</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/angular-icon.svg">
+      </td>
+      
     </tr>
     
   </tbody>
